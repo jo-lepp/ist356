@@ -18,3 +18,5 @@ while True:
 print("Duplicate colors entered:")
 for d in duplicates:
     print(d)
+
+
